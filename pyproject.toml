@@ -1,6 +1,6 @@
 [project]
 name = "pd-code-mirror"
-version = "0.1.0"
+version = "0.1.1"
 description = "# pd_code_mirror"
 authors = [
     {name = "mirror a link or knot with pd_code."}
