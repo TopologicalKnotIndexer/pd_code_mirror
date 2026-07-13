@@ -1,6 +1,6 @@
 [project]
 name = "pd-code-mirror"
-version = "0.0.1"
+version = "0.1.0"
 description = "# pd_code_mirror"
 authors = [
     {name = "mirror a link or knot with pd_code."}
@@ -9,7 +9,7 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "pd_code_sanity"
+    "pd-code-sanity>=0.1.0"
 ]
 
 
